@@ -1,4 +1,4 @@
-package src.may.ex_07052024;
+package may.ex_07052024;
 
 public class Lab157 {
 

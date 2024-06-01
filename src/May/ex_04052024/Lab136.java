@@ -1,4 +1,4 @@
-package src.may.ex_04052024;
+package may.ex_04052024;
 
 public class Lab136 {
     public static void main(String[] args) {

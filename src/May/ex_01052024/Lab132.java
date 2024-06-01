@@ -1,4 +1,4 @@
-package src.may.ex_01052024;
+package may.ex_01052024;
 
 import java.util.Scanner;
 
