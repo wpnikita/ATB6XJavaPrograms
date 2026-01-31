@@ -1,4 +1,4 @@
-package src.june.ex_18062024;
+package june.ex_18062024;
 
 public class NoDesignPatten {
 
